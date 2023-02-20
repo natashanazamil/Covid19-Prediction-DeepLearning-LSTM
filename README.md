@@ -22,4 +22,5 @@ Based on the graph, the predictions were able to follow the pattern of the actua
 * R2-Score: 0.9700399216304348
 
 ## Data source: 
+https://github.com/MoH-Malaysia/covid19-public.git
 GitHub - MoH-Malaysia/covid19-public : Official data on the COVID-19 epidemic in Malaysia. Powered by CPRC, CPRC Hospital System, MKAK, and MySejahtera.
