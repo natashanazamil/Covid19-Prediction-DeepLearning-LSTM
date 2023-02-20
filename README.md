@@ -20,3 +20,6 @@ Based on the graph, the predictions were able to follow the pattern of the actua
 * MAE: 0.04654559743555002
 * MAPE: 0.08795534036711634
 * R2-Score: 0.9700399216304348
+
+## Data source: 
+GitHub - MoH-Malaysia/covid19-public: Official data on the COVID-19 epidemic in Malaysia. Powered by CPRC, CPRC Hospital System, MKAK, and MySejahtera.
